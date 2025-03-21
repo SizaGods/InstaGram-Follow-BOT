@@ -6,7 +6,7 @@ Are you looking to enhance your Instagram presence effortlessly? I am offering a
  
 ## Features of the Software
  
-### 1. Account Creation
+### 1. Account Creation 
 - **Bulk Account Creation**: Easily create multiple Instagram accounts with unique usernames and email addresses in just a few clicks.
 - **Proxy Support**: Use proxy settings to avoid IP bans and ensure the safety of your accounts during creation. 
 
